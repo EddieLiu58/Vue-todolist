@@ -9,4 +9,5 @@
 ![image](https://github.com/EddieLiu58/Vue-todolist/blob/master/todo3.PNG)<br/>
 切換到已完成，正常顯示完成的任務。
 ![image](https://github.com/EddieLiu58/Vue-todolist/blob/master/todo4.PNG)<br/><br/>
-下載後可配合vscode並安裝live server 啟用此專案
+此專案使用Vue-cli-3 快速原型建置。
+下載後可配合vscode並安裝live server 啟用此專案。
